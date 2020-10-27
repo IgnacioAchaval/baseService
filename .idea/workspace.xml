@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1886bb3-ed83-4500-9e84-ea5d1c1729d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/controller/AlquilerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/controller/PeliculaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/AlquilerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/AlqulilerImpDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/PeliculaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/PeliculaImpDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/SocioDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dao/SocioImpDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dto/AlquilerRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dto/AlquilerResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dto/PeliculaRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/dto/PeliculaResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/model/Alquiler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/model/Genero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/model/Pelicula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/model/Socio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/service/AlquilerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/baseService/service/PeliculaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/common/dao/GenericDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/common/dao/GenericDaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/common/dto/DtoEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/common/dto/ModelDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/ucc/arqSoft/common/model/GenericObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/META-INF/test-persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/META-INF/test-persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/controller/AlquilerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/controller/PeliculaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/AlquilerDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/AlqulilerImpDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/PeliculaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/PeliculaImpDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/SocioDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dao/SocioImpDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dto/AlquilerRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dto/AlquilerResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dto/PeliculaRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/dto/PeliculaResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/model/Alquiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/model/Genero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/model/Pelicula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/model/Socio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/service/AlquilerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/baseService/service/PeliculaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/common/dao/GenericDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/common/dao/GenericDaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/common/dto/DtoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/common/dto/ModelDtoConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ar/edu/ucc/arqSoft/common/model/GenericObject.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jQxefQROJua7bbbol4IIh0V9YF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/baseService/dao" />
+      <recent name="$PROJECT_DIR$/src/main/java/baseService/controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1886bb3-ed83-4500-9e84-ea5d1c1729d7" name="Default Changelist" comment="" />
+      <created>1603750219437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603750219437</updated>
+      <workItem from="1603750223728" duration="2198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="222" width="439" height="416" key="#Assign_Data_Sources" timestamp="1603751429936">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="747" y="222" width="439" height="416" key="#Assign_Data_Sources/0.23.1680.1027/-121.-1057.1920.1057@0.23.1680.1027" timestamp="1603751429936" />
+    <state x="474" y="222" key="#Inspections" timestamp="1603750755147">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="474" y="222" key="#Inspections/0.23.1680.1027/-121.-1057.1920.1057@0.23.1680.1027" timestamp="1603750755147" />
+    <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603751728525">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/-121.-1057.1920.1057@0.23.1680.1027" timestamp="1603751728525" />
+    <state x="538" y="169" width="604" height="735" key="find.popup" timestamp="1603752279113">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="538" y="169" width="604" height="735" key="find.popup/0.23.1680.1027/-121.-1057.1920.1057@0.23.1680.1027" timestamp="1603752279113" />
+  </component>
+</project>
